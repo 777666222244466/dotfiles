@@ -4,7 +4,7 @@ Basic terminal setup following [https://gettinggit.com/everyday-git/terminal-twe
 
 ## Usage
 
-With the alias added in `.bashrc` (link[](https://medium.com/toutsbrasil/how-to-manage-your-dotfiles-with-git-f7aeed8adf8b));
+With the alias added in `.bashrc`;
 
 ```bash
 $ dotfiles status
@@ -15,7 +15,7 @@ $ dotfiles commit -m "Add bashrc"
 $ dotfiles push
 ```
 
-More info: https://medium.com/toutsbrasil/how-to-manage-your-dotfiles-with-git-f7aeed8adf8b
+More info: [https://medium.com/toutsbrasil/how-to-manage-your-dotfiles-with-git-f7aeed8adf8b](https://medium.com/toutsbrasil/how-to-manage-your-dotfiles-with-git-f7aeed8adf8b)
 
 ## Plugin(s)
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)

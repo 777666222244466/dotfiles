@@ -4,7 +4,7 @@ Basic terminal setup following [https://gettinggit.com/everyday-git/terminal-twe
 
 ## Usage
 
-With the alias added in `.bashrc`;
+With the alias added in `~/.bash_profile`;
 
 ```bash
 $ dotfiles status

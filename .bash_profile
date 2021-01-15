@@ -17,6 +17,7 @@ export NVM_DIR="$HOME/.nvm"
 # shortcuts
 alias ..='cd ..'
 alias ...='cd ../..'
+alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 alias gl='git log --pretty=tformat:"%Cblue%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset" --abbrev-commit'
 alias wip='git add . && git commit -m "wip"'
 alias nah='git reset --hard && git clean -df'
